@@ -1,4 +1,9 @@
-### Hi there 👋
+I'm Simon (he/him), a statistics student with NLP research experience. I'm currently at Reed College working on a Bachelor's in Mathematics-Statistics.
+
+
+🦆 Research
+
+My research is in natural language processing and data modeling. 
 
 <!--
 **ahnsb5117/ahnsb5117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
