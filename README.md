@@ -1,4 +1,4 @@
-I'm Simon (he/him), a statistics student with NLP research experience. I'm currently at Reed College working on a Bachelor's in Mathematics-Statistics.
+I'm Simon (he/him), a statistics student with NLP research experience. I'm currently at Reed College working on a Bachelor's in Economics.
 
 
 🦆 Research
