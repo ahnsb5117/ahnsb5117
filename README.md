@@ -3,7 +3,7 @@ I'm Simon (he/him), a statistics student with sampling and survey research exper
 
 🦆 Research
 
-My research interest is in natural language processing and data modeling. 
+My research interest is in data mining and data modeling. 
 
 <!--
 **ahnsb5117/ahnsb5117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
