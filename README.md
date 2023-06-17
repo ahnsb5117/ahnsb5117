@@ -1,4 +1,4 @@
-I'm Simon (he/him), a statistics student with sampling and survey research experience. I'm currently at Reed College working on a Bachelor's in Economics.
+I'm Simon (he/him), a statistics student with scraping, sampling, and survey research experience. I'm currently at Reed College working on a Bachelor's in Economics.
 
 
 🦆 Research
