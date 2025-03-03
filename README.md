@@ -1,9 +1,11 @@
-I'm Simon (he/him), a statistics student with scraping, sampling, and survey research experience. I'm currently at Reed College working on a Bachelor's in Economics.
+I'm Simon (he/him), a statistics student with scraping, sampling, and survey research experience. Graduated from Reed College with a BA in Economics.
+
+I'm currently working at ERCOT as a load forecasting analyst doing time series electric long-term load modeling using linear regression and neural net.
 
 
 🦆 Research
 
-My research interest is in data mining and data modeling. 
+My research interest is in time series forecasting and data mining.
 
 <!--
 **ahnsb5117/ahnsb5117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
